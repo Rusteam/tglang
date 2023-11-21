@@ -6,7 +6,7 @@ sdk_version: 4.5.0
 ---
 # Tglang - identify a programming language of a code snippet
 
-[github repo]()
+[github repo](https://github.com/Rusteam/tglang)
 
 This is a solution for [Telegram hackathon](https://contest.com/docs/ML-Competition-2023-r2).
 
